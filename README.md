@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá eu sou João Gabriel, sou um progamador Front End, atualmente eu estou aprendendo e criando projetos com:
+Olá eu sou João Gabriel, sou um progamador Front End, atualmente eu estou criando projetos com:
 <br>
 <br>
 -HTML
